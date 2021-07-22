@@ -1,5 +1,5 @@
 
-### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Emmanuel!](https://github.com/noblesalt)
 
 <br/>
 
@@ -73,4 +73,4 @@ Hi,I'm Emmanue Izuchukwu🙌, a Web Developer, Chatbot Developer and Vuejs lover
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=noblesalt9&show_icons=true&hide_border=true)
+![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=noblesalt&show_icons=true&hide_border=true)
