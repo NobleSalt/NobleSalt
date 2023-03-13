@@ -80,4 +80,4 @@ Hi,I'm Emmanuel Izuchukwu🙌, a Web Developer, Chatbot Developer and Vuejs love
 <!-- 
 ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=noblesalt&show_icons=true&hide_border=true)
  -->
-[![](https://visitcount.itsvg.in/api?id=noblesalt&icon=0&color=0)](https://visitcount.itsvg.in)
+ ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=noblesalt&show_icons=true&hide_border=true)
